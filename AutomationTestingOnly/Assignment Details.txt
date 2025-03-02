@@ -1,0 +1,26 @@
+1) Basic Script
+File Name:
+1)BasicScript.java
+
+2) SignUp Page
+File Names:
+1) SignupPage.java
+2) InvalidmailSignup.java
+3) Passwordnotmatching.java
+4) missingorblankfield.java
+5) edgecase.java
+6) edgecase2.java
+
+3) Login Page
+Files Names:
+1) loginpage.java
+2) incorrectlogin.java
+3) blankfieldlogin.java
+4) specialcharlogin.java
+
+4)Forgot Password
+Files Names:
+1) provideregisteredemail.java
+2) nonregisteredemail.java
+3) Invalidemailformat.java
+4) Blackemailfield.java
